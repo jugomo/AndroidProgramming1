@@ -1,4 +1,4 @@
-L2/ActivityClass_entrega
+
 L2/ActivityClass/.idea
 L2/ActivityClass/*.iml
 L2/ActivityClass/.gradle
@@ -6,6 +6,7 @@ L2/ActivityClass/local.properties
 L2/ActivityClass/.idea/workspace.xml
 L2/ActivityClass/.idea/libraries
 L2/ActivityClass/.DS_Store
+L2/ActivityClass/app/build
 L2/ActivityClass/build
 L2/ActivityClass/captures
 
