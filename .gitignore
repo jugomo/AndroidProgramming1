@@ -21,6 +21,19 @@ L4/UserInterface/app/build
 L4/UserInterface/build
 L4/UserInterface/captures
 
+L4b/ModernArt/.idea
+L4b/ModernArt/*.iml
+L4b/ModernArt/.gradle
+L4b/ModernArt/local.properties
+L4b/ModernArt/.idea/workspace.xml
+L4b/ModernArt/.idea/libraries
+L4b/ModernArt/.DS_Store
+L4b/ModernArt/app/build
+L4b/ModernArt/build
+L4b/ModernArt/captures
+
+
 *.zip
 *.pdf
 *.txt
+*.mov
